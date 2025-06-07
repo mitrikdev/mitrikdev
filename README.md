@@ -36,4 +36,4 @@ I'm a Full Stack Developer based in Pittsburgh, PA — passionate about clean co
 
 ---
 
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnmitrik&show_icons=true&theme=tokyonight)
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mitrikdev&show_icons=true&theme=tokyonight)
