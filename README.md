@@ -1,5 +1,5 @@
 <!-- Optional Banner -->
-<img src="https://your-image-url.com/banner.gif" alt="banner" width="100%" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm0wanVmcXZibGg2NDM1MjJubW8zbzdkNmRmYWQxMmhuajBnaDJzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" alt="banner" width="100%" />
 
 # Hi, I'm John 👋
 
