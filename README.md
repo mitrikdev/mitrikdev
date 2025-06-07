@@ -40,8 +40,7 @@ I'm a Full Stack Developer based in Pittsburgh, PA — passionate about clean co
 
 A 3D interactive visualization built with **React Three Fiber**.  
 Control formations, simulate drone movement, and explore different camera POVs.
-
-![Drone Demo](https://your-image-url.com/drone-demo.gif)  
+ 
 🔗 [Live Demo](https://drone-swarm.vercel.app/)  
 📦 [Source Code](https://github.com/mitrikdev/drone-swarm)
 
