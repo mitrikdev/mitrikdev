@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm John 👋
 
-<!--
-**mitrikdev/mitrikdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Developer based in Pittsburgh, PA — passionate about clean code, expressive UI/UX, and building tools that make life better (or at least more fun).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I Do
+
+- ⚛️ Build full-stack web and mobile apps with **React**, **Node.js**, and **TypeScript**
+- 🎮 Lifelong gamer with dreams of making my own game since age three 😅
+- 🧊 Tinkering with **3D graphics** and interactive experiences using Three.js
+- 🎨 Obsessed with UI/UX — thoughtful design is half the battle
+
+---
+
+### 🧰 Tech Stack
+
+`React` · `Node.js` · `TypeScript` · `SQL Server`  
+`Expo` · `AWS Lambda` · `DynamoDB` · `Three.js`
+
+---
+
+### 🔭 Currently Exploring
+
+- ✨ React Native + Expo for mobile
+- 🌐 Real-time data apps
+- 🔺 Interactive 3D UI
+- 🧠 AI-powered interfaces
+
+---
+
+### 📫 Let's Connect
+
+📧 jregismitrik@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/jmitrik)
+
+---
+
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnmitrik&show_icons=true&theme=tokyonight)
