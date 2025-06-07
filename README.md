@@ -53,6 +53,7 @@ Control formations, simulate drone movement, and explore different camera POVs.
 |--------|-------------|------|------|
 | 🧠 VVibes | AI-based web 1.0 site generator based on a few words | 🔗 Soon | [Repo](#) |
 
+I may or may not have accidentally coined the term "vibe coding" 😅
 ---
 
 ### 🤝 Working With Me
