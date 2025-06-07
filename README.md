@@ -1,6 +1,4 @@
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm0wanVmcXZibGg2NDM1MjJubW8zbzdkNmRmYWQxMmhuajBnaDJzbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" alt="banner" width="100%" />
-
 # Hi, I'm John 👋
 
 I'm a Full Stack Developer based in Pittsburgh, PA — passionate about clean code, expressive UI/UX, and building tools that make life better (or at least more fun).
@@ -44,7 +42,7 @@ A 3D interactive visualization built with **React Three Fiber**.
 Control formations, simulate drone movement, and explore different camera POVs.
 
 ![Drone Demo](https://your-image-url.com/drone-demo.gif)  
-🔗 [Live Demo](https://drone-swarm-b4z3zlno5-onlineinklingsgmailcoms-projects.vercel.app/)  
+🔗 [Live Demo](https://drone-swarm.vercel.app/)  
 📦 [Source Code](https://github.com/mitrikdev/drone-swarm)
 
 ---
@@ -53,8 +51,7 @@ Control formations, simulate drone movement, and explore different camera POVs.
 
 | Project | Description | Live | Code |
 |--------|-------------|------|------|
-| 🧠 AI Prompt Tool | Lightweight prompt tuner for GPT-based apps | 🔗 Soon | [Repo](#) |
-| 🎮 Game Prototype | 2D tactical puzzle concept in React + canvas | 🔗 Soon | [Repo](#) |
+| 🧠 VVibes | AI-based web 1.0 site generator based on a few words | 🔗 Soon | [Repo](#) |
 
 ---
 
