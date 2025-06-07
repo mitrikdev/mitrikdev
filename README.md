@@ -48,7 +48,7 @@ Control formations, simulate drone movement, and explore different camera POVs.
 ### 📫 Let's Connect
 
 📧 jregismitrik@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/jmitrik)
+🔗 [LinkedIn](https://www.linkedin.com/in/john-mitrik/)
 
 ---
 
