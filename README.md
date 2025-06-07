@@ -1,3 +1,6 @@
+<!-- Optional Banner -->
+<img src="https://your-image-url.com/banner.gif" alt="banner" width="100%" />
+
 # Hi, I'm John 👋
 
 I'm a Full Stack Developer based in Pittsburgh, PA — passionate about clean code, expressive UI/UX, and building tools that make life better (or at least more fun).
@@ -40,8 +43,24 @@ I'm a Full Stack Developer based in Pittsburgh, PA — passionate about clean co
 A 3D interactive visualization built with **React Three Fiber**.  
 Control formations, simulate drone movement, and explore different camera POVs.
 
+![Drone Demo](https://your-image-url.com/drone-demo.gif)  
 🔗 [Live Demo](https://drone-swarm-b4z3zlno5-onlineinklingsgmailcoms-projects.vercel.app/)  
 📦 [Source Code](https://github.com/mitrikdev/drone-swarm)
+
+---
+
+### 🧩 Other Projects
+
+| Project | Description | Live | Code |
+|--------|-------------|------|------|
+| 🧠 AI Prompt Tool | Lightweight prompt tuner for GPT-based apps | 🔗 Soon | [Repo](#) |
+| 🎮 Game Prototype | 2D tactical puzzle concept in React + canvas | 🔗 Soon | [Repo](#) |
+
+---
+
+### 🤝 Working With Me
+
+I move fast, learn fast, and care about code that helps people. I value good design, low friction collaboration, and solving real problems with creativity and precision.
 
 ---
 
@@ -52,4 +71,6 @@ Control formations, simulate drone movement, and explore different camera POVs.
 
 ---
 
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mitrikdev&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mitrikdev&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mitrikdev&theme=tokyonight)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitrikdev&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
