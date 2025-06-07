@@ -28,10 +28,19 @@ I'm a Full Stack Developer based in Pittsburgh, PA — passionate about clean co
 
 ### 🔭 Currently Exploring
 
-- ✨ React Native + Expo for mobile
-- 🌐 Real-time data apps
-- 🔺 Interactive 3D UI
+- ✨ React Native + Expo for mobile  
+- 🌐 Real-time data apps  
+- 🔺 Interactive 3D UI  
 - 🧠 AI-powered interfaces
+
+---
+
+### 🚁 Featured Project: Drone Swarm Visualizer
+
+A 3D interactive visualization built with **React Three Fiber**.  
+Control formations, simulate drone movement, and explore different camera POVs.
+
+🔗 [Check it out on Vercel](https://drone-swarm-b4z3zlno5-onlineinklingsgmailcoms-projects.vercel.app/)
 
 ---
 
