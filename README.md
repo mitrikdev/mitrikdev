@@ -57,7 +57,7 @@ Control formations, simulate drone movement, and explore different camera POVs.
 
 ### 🤝 Working With Me
 
-I move fast, learn fast, and care about code that helps people. I value good design, low friction collaboration, and solving real problems with creativity and precision.
+I move fast, learn fast, teach well and care about code that helps people. I value good design, low friction collaboration, and solving real problems with creativity and precision.
 
 ---
 
