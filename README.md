@@ -10,7 +10,7 @@ often in environments where data is messy, requirements are unclear, and reliabi
 
 I’m best described as a hybrid engineer:
 - I love **clean UI/UX** and thoughtful interfaces  
-- I thrive in **TypeScript + React**  
+- I thrive in **JavaScript + React**  
 - I architect **Node/Express APIs** and **SQL data models**  
 - I enjoy turning ambiguous ideas into polished, production-quality features  
 
@@ -18,11 +18,13 @@ I’ve spent the last several years modernizing critical workflows in manufactur
 
 ---
 
-## 🛠️ Tech I Use Daily
-- **Frontend:** React, TypeScript, Next.js, Redux, Three.js  
+## 🛠️ Tech I Use
+
+- **Frontend:** React, JavaScript (ES6+), Next.js, Redux, Three.js  
 - **Backend:** Node.js, Express, REST APIs  
-- **Database:** SQL Server, Postgres  
-- **Other:** PM2, Windows/Linux services, system design, UI/UX optimization  
+- **Database:** SQL Server  
+- **Currently Learning:** TypeScript, testing frameworks, and scalable architectural patterns  
+- **Other:** PM2, Windows/Linux services, UI/UX optimization, system design  
 
 ---
 
