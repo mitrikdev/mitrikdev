@@ -1,64 +1,94 @@
+# John Mitrik
 
-# 👋 Hi, I’m John Mitrik
-
-**Senior Full-Stack Product Engineer**  
-Builder • Systems Thinker • UI/UX-Driven Problem Solver  
+**Senior Full-Stack Engineer | Product-Minded Builder**  
 Pittsburgh, PA
 
-I design and build full-stack applications that solve real operational problems — 
-often in environments where data is messy, requirements are unclear, and reliability truly matters.
-
-I’m best described as a hybrid engineer:
-- I love **clean UI/UX** and thoughtful interfaces  
-- I thrive in **JavaScript + React**  
-- I architect **Node/Express APIs** and **SQL data models**  
-- I enjoy turning ambiguous ideas into polished, production-quality features  
-
-I’ve spent the last several years modernizing critical workflows in manufacturing and robotics, owning systems end-to-end and delivering fast, reliable solutions that people depend on every day.
+I design and deliver production software that solves operational problems at scale — from UX through database and deployment.  
+My focus is building systems that are fast, maintainable, and trusted by the people who rely on them every day.
 
 ---
 
-## 🛠️ Tech I Use
+## 🔎 What I Bring
 
-- **Frontend:** React, JavaScript (ES6+), Next.js, Redux, Three.js  
-- **Backend:** Node.js, Express, REST APIs  
-- **Database:** SQL Server  
-- **Currently Learning:** TypeScript, testing frameworks, and scalable architectural patterns  
-- **Other:** PM2, Windows/Linux services, UI/UX optimization, system design  
-
----
-
-## 🚀 Featured Projects
-
-### **Drone Swarm (React + Three.js)**
-A dynamic 3D drone formation system with interactive controls, real-time movement, and custom camera logic.  
-This project reflects my interest in 3D graphics, UI performance, and creative interfaces.
-
-
-🔗 [Live Demo](https://drone-swarm.vercel.app/)  
-📦 [Source Code](https://github.com/mitrikdev/drone-swarm)
+- 10+ years building and modernizing full-stack applications
+- Strong ownership mindset — I take features from concept → production → support
+- Deep experience working in real operational environments (manufacturing, automation, logistics)
+- Balance of **clean UI/UX thinking** with **pragmatic backend architecture**
+- Known for turning unclear requirements into reliable shipped solutions
 
 ---
 
-### **VVibes — AI Web 1.0 Generator**
-An experimental AI-powered retro website generator with a playful, early-internet aesthetic.  
-Shows my love for rapid prototyping and creative engineering.
+## 🧰 Core Stack
 
-[Repo](https://github.com/mitrikdev/VVibes)
+**Frontend**
+- React, Next.js, JavaScript (ES6+)
+- Performance-focused UI architecture
+- Data-heavy dashboards & workflow tools
+- Three.js / advanced visualization (when needed)
+
+**Backend**
+- Node.js, Express
+- REST API design & integrations
+- Windows/Linux service environments
+
+**Data**
+- SQL Server (design, optimization, migration)
+- Relational modeling for operational systems
+
+**Ops / Delivery**
+- PM2, IIS deployments, build pipelines
+- Legacy modernization → modern JS stacks
+- Real-time and hardware-adjacent integrations
 
 ---
 
-## 💡 What I Care About
-- Building software that **feels good to use**  
-- Clean architecture and maintainability  
-- Clear communication and strong product partnerships  
-- Ownership, craftsmanship, and thoughtful details  
-- Using engineering to support real-world operations  
-- Blending technical depth with creative expression  
+## 🚀 Selected Work
+
+### Online Inklings  
+**https://www.onlineinklings.app**
+
+Creator-first publishing platform designed around transparent monetization and ownership.  
+Built as a modern SaaS application exploring sustainable tooling for independent writers.
+
+**Focus Areas:** Product architecture, UX design, full-stack implementation.
 
 ---
 
-## 📫 Let’s Connect
+### Internal Operations Platforms (Manufacturing & Automation)
+
+Lead developer responsible for modernizing critical production workflows:
+
+- Replaced legacy tools with React-based operational dashboards
+- Built Node/Express APIs integrating with industrial and data systems
+- Improved reliability and traceability across manufacturing processes
+- Delivered systems used daily by engineering, operations, and lab teams
+
+*(Much of this work is proprietary, but I’m happy to discuss architecture and impact.)*
+
+---
+
+### Drone Swarm Visualization (R3F / Three.js)
+https://github.com/mitrikdev/drone-swarm
+
+Interactive 3D simulation exploring spatial UI, animation systems, and performance-driven rendering.
+
+---
+
+## 💡 How I Approach Engineering
+
+- Build for clarity first — complexity is inevitable, confusion is optional  
+- Optimize for long-term maintainability, not short-term cleverness  
+- Treat UX as part of engineering, not decoration  
+- Ship practical solutions that teams can depend on immediately  
+
+---
+
+## 📫 Contact
+
 **Email:** jregismitrik@gmail.com  
-**GitHub:** [mitrikdev](https://github.com/mitrikdev)
+**GitHub:** https://github.com/mitrikdev  
+**Location:** Pittsburgh, PA (open to hybrid / remote)
 
+---
+
+*Open to Senior / Staff-level roles where product thinking and execution both matter.*
