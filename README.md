@@ -44,6 +44,20 @@ My focus is building systems that are fast, maintainable, and trusted by the peo
 
 ## 🚀 Selected Work
 
+---
+
+### Internal Operations Platforms (Manufacturing & Automation)
+
+Lead developer responsible for modernizing critical production workflows:
+
+- Replaced legacy tools with React-based operational dashboards
+- Built Node/Express APIs integrating with industrial and data systems
+- Improved reliability and traceability across manufacturing processes
+- Delivered systems used daily by engineering, operations, and lab teams
+- Created an extremely valuable scheduling and scrapping tool with high availability, saving the company an estimated $8 million
+
+*(Much of this work is proprietary, but I’m happy to discuss architecture and impact.)*
+
 ### Rift Mapper
 **https://league-mapper.vercel.app/**
 
@@ -63,18 +77,6 @@ Built as a modern SaaS application exploring sustainable tooling for independent
 
 **Focus Areas:** Product architecture, UX design, full-stack implementation.
 
----
-
-### Internal Operations Platforms (Manufacturing & Automation)
-
-Lead developer responsible for modernizing critical production workflows:
-
-- Replaced legacy tools with React-based operational dashboards
-- Built Node/Express APIs integrating with industrial and data systems
-- Improved reliability and traceability across manufacturing processes
-- Delivered systems used daily by engineering, operations, and lab teams
-
-*(Much of this work is proprietary, but I’m happy to discuss architecture and impact.)*
 
 ---
 
