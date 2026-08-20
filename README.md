@@ -44,7 +44,6 @@ My focus is building systems that are fast, maintainable, and trusted by the peo
 
 ## 🚀 Selected Work
 
----
 
 ### Internal Operations Platforms (Manufacturing & Automation)
 
@@ -57,6 +56,8 @@ Lead engineer responsible for modernizing critical production workflows:
 - Delivered systems used daily by engineering, operations, and lab teams
 
 *(Much of this work is proprietary, but I’m happy to discuss architecture and impact.)*
+
+---
 
 ### Rift Mapper
 **https://league-mapper.vercel.app/**
