@@ -1,6 +1,6 @@
 # John Mitrik
 
-**Senior Full-Stack Engineer | Product-Minded Builder**  
+**Lead Software Engineer | Product-Minded Builder**  
 Pittsburgh, PA
 
 I design and deliver production software that solves operational problems at scale — from UX through database and deployment.  
@@ -48,24 +48,24 @@ My focus is building systems that are fast, maintainable, and trusted by the peo
 
 ### Internal Operations Platforms (Manufacturing & Automation)
 
-Lead developer responsible for modernizing critical production workflows:
+Lead engineer responsible for modernizing critical production workflows:
 
 - Replaced legacy tools with React-based operational dashboards
 - Built Node/Express APIs integrating with industrial and data systems
+- Architected a high-availability, real-time manufacturing scheduling platform using WebSockets, delivering a calculated $8 million in cost savings by preventing losses from otherwise unsorted scrap material.
 - Improved reliability and traceability across manufacturing processes
 - Delivered systems used daily by engineering, operations, and lab teams
-- Created an extremely valuable scheduling and scrapping tool with high availability, saving the company an estimated $8 million
 
 *(Much of this work is proprietary, but I’m happy to discuss architecture and impact.)*
 
 ### Rift Mapper
 **https://league-mapper.vercel.app/**
 
-A small passion project of mine! If you like League of Legends, you'll get it.
-If not, this is a play-mapping tool that I thought would exist when I wanted to explain
-wave and play dynamics to a friend. 
+A small passion project of mine. If you play League of Legends, you’ll get it.
 
-When I saw it didn't exist, I made it for myself!
+I wanted a simple way to map out wave states and explain play dynamics to a friend. I assumed a tool like this already existed.
+
+When I couldn’t find one, I built it myself.
 
 ---
 
