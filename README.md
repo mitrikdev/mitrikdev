@@ -44,6 +44,17 @@ My focus is building systems that are fast, maintainable, and trusted by the peo
 
 ## 🚀 Selected Work
 
+### Rift Mapper
+**https://league-mapper.vercel.app/**
+
+A small passion project of mine! If you like League of Legends, you'll get it.
+If not, this is a play-mapping tool that I thought would exist when I wanted to explain
+wave and play dynamics to a friend. 
+
+When I saw it didn't exist, I made it for myself!
+
+---
+
 ### Online Inklings  
 **https://www.onlineinklings.app**
 
