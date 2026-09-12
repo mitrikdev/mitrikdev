@@ -115,7 +115,7 @@ Built as a modern SaaS application exploring sustainable tooling for independent
 
 ### Drone Swarm Visualization
 
-**[GitHub Repository](https://github.com/mitrikdev/drone-swarm)**
+**[https://drone-swarm.vercel.app/](https://drone-swarm.vercel.app/)**
 
 Interactive 3D simulation built with React Three Fiber / Three.js, exploring spatial UI, animation systems, and performance-driven rendering.
 
