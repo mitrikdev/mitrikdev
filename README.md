@@ -103,6 +103,4 @@ Interactive 3D simulation exploring spatial UI, animation systems, and performan
 **GitHub:** https://github.com/mitrikdev  
 **Location:** Pittsburgh, PA (open to hybrid / remote)
 
----
 
-*Open to Senior / Staff-level roles where product thinking and execution both matter.*
