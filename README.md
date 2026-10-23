@@ -1,99 +1,55 @@
-# John Mitrik
+### John Mitrik
 
-**Lead Software Engineer | Product-Minded Builder**  
-Pittsburgh, PA
+**Lead Software Engineer · Pittsburgh, PA**
 
-I design and deliver production software that solves operational problems at scale — from UX through database and deployment.  
-My focus is building systems that are fast, maintainable, intuitive, and trusted by the people who rely on them every day.
+I like understanding how things work—and building tools that make them easier to use.
 
----
+Professionally, that means turning complicated operational workflows into software people can depend on. Outside of work, my projects tend to follow my interests: music, games, stories, and finding better ways to visualize things.
 
-## 🔎 What I Bring
-
-- 10+ years building and modernizing full-stack applications
-- Strong ownership mindset — I take features from concept → production → support
-- Deep experience working in real operational environments (manufacturing, automation, logistics)
-- Balance of **clean UI/UX thinking** with **pragmatic backend architecture**
-- Experience building interactive visualization and data-heavy interfaces
-- Known for turning unclear requirements into reliable shipped solutions
+Sometimes I have a product idea. Sometimes I just want to explain something to a friend and end up building an app.
 
 ---
 
-## 🧰 Core Stack
+#### What I Do Professionally
 
-**Frontend**
+At **Universal Stainless & Alloy Products**, I lead a small engineering team while staying hands-on with architecture, development, deployment, and production support.
 
-- React, Next.js, JavaScript (ES6+)
-- Performance-focused UI architecture
-- Data-heavy dashboards & workflow tools
-- Three.js / advanced visualization
+- **Build tools people use every day.** I work across React, Next.js, Node.js, Express, and SQL Server to deliver applications for engineering, operations, and lab teams.
+- **Solve problems with measurable impact.** I built a real-time manufacturing scheduling platform using React, Node.js, SQL Server, and WebSockets, delivering multi-million-dollar savings by preventing losses from otherwise unsorted scrap material.
+- **Connect old systems to better workflows.** I built Digital Traveler to replace paper-based production tracking, bringing existing databases and manufacturing systems together in a modern web application.
+- **Own what happens after deployment.** My work includes production troubleshooting and application hosting with `node-windows` for Windows Services, PM2 for process management, and IIS / Windows Server infrastructure.
 
-**Backend**
-
-- Node.js, Express
-- REST API design & integrations
-- Windows/Linux service environments
-
-**Data**
-
-- SQL Server (design, optimization, migration)
-- Relational modeling for operational systems
-
-**Ops / Delivery**
-
-- Vercel, PM2, IIS deployments, build pipelines
-- Legacy modernization → modern JS stacks
-- Real-time and hardware-adjacent integrations
+*Most of this work is proprietary, but I’m happy to discuss the architecture, decisions, and lessons behind it.*
 
 ---
 
-## 🚀 Selected Work
+#### Things I Build Outside of Work
 
-### Internal Operations Platforms — Manufacturing & Automation
+These projects are a look at what I make when I get to choose the problem.
 
-Lead engineer responsible for modernizing critical production workflows:
+**Marvel Atlas** · [Explore the atlas](https://marvel-timeline-sepia.vercel.app/)
 
-- Replaced legacy tools with React-based operational dashboards
-- Built Node/Express APIs integrating with industrial and data systems
-- Architected a high-availability, real-time manufacturing scheduling platform using WebSockets, delivering multi-million-dollar cost savings by preventing losses from otherwise unsorted scrap material
-- Improved reliability and traceability across manufacturing processes
-- Delivered systems used daily by engineering, operations, and lab teams
+Marvel timelines get complicated. I wanted to explore them as something other than another watch-order list.
 
-*(Much of this work is proprietary, but I’m happy to discuss architecture and impact.)*
+Marvel Atlas connects movies, shows, characters, and universes in an interactive visual map. Pick a character or filter the timeline and follow the connections that remain.
+
+Part timeline, part map, part attempt to keep all these universes straight.
 
 ---
 
-### Marvel Atlas
+**Guitar Board** · [Try the fretboard](https://pocket-guitar.vercel.app/)
 
-**[https://marvel-timeline-sepia.vercel.app/](https://marvel-timeline-sepia.vercel.app/)**
+An interactive fretboard for exploring notes, scales, intervals, and patterns across guitar and bass.
 
-An interactive visual atlas for exploring Marvel movies, series, characters, universes, and timelines.
+I like being able to see how things fit together. This puts music theory directly on the instrument instead of leaving it in a static diagram.
 
-Rather than treating the MCU and its related continuities as a list, Marvel Atlas maps them as a connected visual system. Filtering dynamically reduces the graph while preserving the relationships between matching entries, making it possible to trace individual characters and storylines across timelines.
-
-**Focus Areas:** Interactive data visualization, information architecture, dynamic filtering, responsive UI, product design.
+Designed to work horizontally on a phone, with layouts for 6-string guitar, 4-string bass, and 5-string bass.
 
 ---
 
-### Guitar Board
+**Rift Mapper** · [Open the map](https://league-mapper.vercel.app/)
 
-**[https://pocket-guitar.vercel.app/](https://pocket-guitar.vercel.app/)**
-
-An interactive fretboard visualization tool for exploring notes, scales, intervals, and patterns across guitar and bass.
-
-Designed around a mobile-first horizontal interface that mirrors the way an instrument is actually held, with switchable layouts for 6-string guitar, 4-string bass, and 5-string bass.
-
-Built to make music theory spatial and interactive rather than something you have to memorize from static diagrams.
-
-**Focus Areas:** Interactive UI, music theory visualization, responsive design, algorithmic transformations, product UX.
-
----
-
-### Rift Mapper
-
-**[https://league-mapper.vercel.app/](https://league-mapper.vercel.app/)**
-
-A small passion project of mine. If you play League of Legends, you’ll get it.
+A small passion project. If you play League of Legends, you’ll get it.
 
 I wanted a simple way to map out wave states and explain play dynamics to a friend. I assumed a tool like this already existed.
 
@@ -101,39 +57,26 @@ When I couldn’t find one, I built it myself.
 
 ---
 
-### Online Inklings
+**Online Inklings** · [Visit the site](https://www.onlineinklings.app)
 
-**[https://www.onlineinklings.app](https://www.onlineinklings.app)**
+A publishing-platform project built around a question: what would a better home for independent writers look like?
 
-Creator-first publishing platform designed around transparent monetization and ownership.
-
-Built as a modern SaaS application exploring sustainable tooling for independent writers.
-
-**Focus Areas:** Product architecture, UX design, full-stack implementation.
+An exploration of creator ownership, transparent monetization, and useful tools for people who want to write and share their work.
 
 ---
 
-### Drone Swarm Visualization
+**Drone Swarm Visualization** · [Explore the simulation](https://drone-swarm.vercel.app/)
 
-**[https://drone-swarm.vercel.app/](https://drone-swarm.vercel.app/)**
+An interactive 3D simulation built with React Three Fiber and Three.js.
 
-Interactive 3D simulation built with React Three Fiber / Three.js, exploring spatial UI, animation systems, and performance-driven rendering.
-
----
-
-## 💡 How I Approach Engineering
-
-- Build for clarity first — complexity is inevitable, confusion is optional
-- Optimize for long-term maintainability, not short-term cleverness
-- Treat UX as part of engineering, not decoration
-- Use visualization when it communicates something better than another table or list
-- Ship practical solutions that teams can depend on immediately
+A place to experiment with coordinated movement, animation, and spatial interfaces—and the challenge of keeping everything running smoothly while it moves.
 
 ---
 
-## 📫 Contact
+Beyond my professional stack, my personal projects also give me room to work with **TypeScript, React Three Fiber / Three.js, and Vercel**, and to explore ideas that don’t come with a requirements document.
 
-**Email:** jregismitrik@gmail.com  
-**GitHub:** [https://github.com/mitrikdev](https://github.com/mitrikdev)  
-**Location:** Pittsburgh, PA — open to hybrid / remote
+#### Say Hello
 
+Questions about a project, an interesting idea, or something worth building?
+
+[jregismitrik@gmail.com](mailto:jregismitrik@gmail.com)
